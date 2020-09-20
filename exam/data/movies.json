@@ -88,23 +88,5 @@
       "Name": "Action"
     },
     "Rate": 10.0
-  },
-  {
-    "Id": 11,
-    "Name": "assaf",
-    "Category": {
-      "Id": 4,
-      "Name": "Crime"
-    },
-    "Rate": 8.5
-  },
-  {
-    "Id": 12,
-    "Name": "Assaf",
-    "Category": {
-      "Id": 2,
-      "Name": "Animation"
-    },
-    "Rate": 5.0
   }
 ]
